@@ -3,8 +3,6 @@
   <img align="left" alt="Apkar's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 
-![](https://visitor-badge.glitch.me/badge?page_id=abhisheknaiidu.abhisheknaiidu)
-
 <br />
 
 Hi, I'm Apkar Nalbandian a passionate Junior Developer 🚀 
@@ -14,7 +12,6 @@ Hi, I'm Apkar Nalbandian a passionate Junior Developer 🚀
 **Talking about Personal Stuffs:**
 
 - 👨🏽‍💻 I’m currently working on something cool :wink:;
-- 🌱 I’m currently learning Typescript; 
 - 💬 Ask me about anything, I am happy to help;
 - 📫 How to reach me: apkar96@gmail.com;
 - 📝[Resume](https://drive.google.com/file/d/10Rbm-fHomOlMPdFzSPkGcMF6VVCHyyJL/view?usp=sharing)
@@ -31,8 +28,8 @@ Hi, I'm Apkar Nalbandian a passionate Junior Developer 🚀
 📊 **This Week I Spent My Time On:**
 <!--START_SECTION:waka-->
 ```text
-JavaScript   6 hrs 58 mins   ███████████████████▓░░░░░   78.81 % 
-C++          47 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   08.89 % 
+C++          6 hrs 58 mins   ███████████████████▓░░░░░   78.81 % 
+Python       47 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   08.89 % 
 CSS          21 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.05 % 
 JSON         15 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.95 % 
 TypeScript   7 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.36 % 
